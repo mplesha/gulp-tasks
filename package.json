@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "./main/server/index.js",
+  "author": "me",
+  "license": "ISC",
+  "scripts": {
+    "start": "node ./main/server/index.js"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-envify": "^1.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
