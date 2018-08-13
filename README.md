@@ -9,4 +9,3 @@ images.js - copies some folders to destination
 lint.js - checks code conventions
 
 js.js - builds all .js in one main.js (babel convertation + concat + replace environment variables + browserify + minimification)
-
